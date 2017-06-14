@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentPlay</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello world!</string>
+    <string name="button_change_frame">Change Frame</string>
+    <string name="Number2">Number 2</string>
+    
+
+</resources>
