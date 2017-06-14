@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">MyWorkouts</string>
-    <string name="description1">Deadlifts</string>
-    <string name="description2">Dumbbell Flies</string>
-    <string name="description3">Tricep Extentions</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-</resources>

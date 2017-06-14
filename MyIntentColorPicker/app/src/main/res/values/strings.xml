@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">MyIntentColorPicker</string>
-
-    <string name="color_selected">Choose a Color</string>
-    <string name="color_selected1">Choose a Color</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_color_picker">ColorPickerActivity</string>
-</resources>
